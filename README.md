@@ -1,18 +1,19 @@
-# Getting Started with Create React App
+# FANCY CHALLENGE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With this project the user is able to choose the best hotel for them and their family.
 
-## Available Scripts
+## Used technologies
 
-In the project directory, you can run:
+The project created with the following technologies:
+  - React JS
+  - Bootstrap
+  - HTML5&CSS3
+  - GIT
 
-### `npm start`
+### Basic Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The user is able to change the level of luxury of hotels by changing Stars. Stars are fully responsive and easy to use.
+The screenshot : ![first-feature](src/components/assets/screenshots/1.png)
 
 ### `npm test`
 
