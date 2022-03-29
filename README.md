@@ -1,3 +1,10 @@
+# To use
+  You must have <b> react-bootstrap</b> and <b> react-bootstrap-icons</b>
+   * <b>npm install react-bootstrap bootstrap@4.6.0 
+   * npm i react-bootstrap-icons
+   * npm start</b>
+  
+
 # FANCY CHALLENGE
 
 With this project the user is able to choose the best hotel for them and their family.
