@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { Container, Row, Col, Image, Button, Alert } from "react-bootstrap";
 import CarouselCreator from "./CarouselCreater";
 import StarRating from "./StarRating";
-import { useParams } from "react-router-dom";
+import hotel from "../assets/hotel.jpeg";
 
 const baseUrl = `https://obmng.dbm.guestline.net/api/hotels?collection-id=OBMNG`;
 
@@ -58,7 +58,7 @@ const Home = () => {
   return (
     <React.Fragment>
       <Container>
-        <Image src="https://via.placeholder.com/1050x150" />
+        <Image src={hotel} width={1070} height={400} />
         <div className="filters">
           <div className="stars">
             {
