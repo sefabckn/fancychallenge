@@ -20,7 +20,7 @@ The project created with the following technologies:
 ### Basic Features
 
 The user is able to change the level of luxury of hotels by changing Stars. Stars are fully responsive and easy to use.
-For example: if the user choose 3 stars the hotel with 3 and above starts will be displayed
+For example: if the user choose 3 stars the hotel with 3 stars and above will be displayed
 The screenshot : ![first-feature](src/assets/screenshots/1.png)
 
 ### Adults and Children Features with Stars
