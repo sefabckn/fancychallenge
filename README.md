@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# FANCY CHALLENGE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With this project the user is able to choose the best hotel for them and their family.
 
-## Available Scripts
+## Used technologies
 
-In the project directory, you can run:
+The project created with the following technologies:
+  - React JS
+  - Bootstrap
+  - HTML5&CSS3
+  - GIT
 
 ### `npm start`
 
