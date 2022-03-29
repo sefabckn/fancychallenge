@@ -10,13 +10,10 @@ The project created with the following technologies:
   - HTML5&CSS3
   - GIT
 
-### `npm start`
+### Basic Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The user is able to change the level of luxury of hotels by changing Stars. Stars are fully responsive and easy to use.
+The screenshot : ![first-feature](src/components/assets/screenshots/1.png)
 
 ### `npm test`
 
